@@ -1,5 +1,5 @@
 
-### About me
+### about me
 
 Department of Statistics, Jeonbuk National University, South Korea. 
 

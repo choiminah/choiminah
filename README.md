@@ -21,6 +21,10 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` [dacon](https://wxnav.github.io/dacon/)
 
+#### junior (2023)
+
+#### senior (2024)
+
 <!--
 **wxnav/wxnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -9,7 +9,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 --- 
 
-### Study
+### study
 
 #### freshman (2021)
 

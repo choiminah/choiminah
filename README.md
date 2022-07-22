@@ -25,6 +25,11 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 #### senior (2024)
 
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwxnav&count_bg=%23D8D7D7&title_bg=%230C0D0D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **wxnav/wxnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -17,7 +17,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > summer project
 
-`-` [Baekjoon](https://wxnav.github.io/Baekjoon/)
+`-` [baekjoon](https://wxnav.github.io/baekjoon/)
 
 `-` [dacon](https://wxnav.github.io/dacon/)
 

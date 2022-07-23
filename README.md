@@ -17,9 +17,12 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > summer project
 
-`-` [Data Visualization](https://wxnav.github.io/DataVisualization/)
+`-` [Baekjoon](https://wxnav.github.io/Baekjoon/)
 
 `-` [dacon](https://wxnav.github.io/dacon/)
+
+`-` [Data Visualization](https://wxnav.github.io/DataVisualization/)
+
 
 #### junior (2023)
 

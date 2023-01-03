@@ -5,7 +5,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` email: cma8542@jbnu.ac.kr
 
-`-` instagram: https://www.instagram.com/tatstix/
+`-` instagram: https://www.instagram.com/ca1sdk/
 
 --- 
 

@@ -41,6 +41,8 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > winter project
 
+`-` [Data Analysis Technology Assessment]
+
 `-` [LG AImers]
 
 `-` [HONORS]

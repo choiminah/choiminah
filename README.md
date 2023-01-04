@@ -13,16 +13,39 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 #### freshman (2021)
 
+`-` [Introduction to R]
+
 #### sophomore (2022)
+
+> 1st semester
+
+`-` [Introduction to Python]
 
 > summer project
 
-`-` [baekjoon-algorithm](https://github.com/wxnav/baekjoon-algorithm)
+`-` [baekjoon-algorithm](https://github.com/choiminah/baekjoon-algorithm)
 
-`-` [dacon](https://wxnav.github.io/dacon/)
+`-` [Dacon]
 
-`-` [Data Visualization](https://wxnav.github.io/DataVisualization/)
+`-` [Data Visualization]
 
+`-` [JBNU Bigdata Supporters]
+
+> 2nd semester
+
+`-` [Data Visualization]
+
+`-` [Deep Learning for Computer Vision]
+
+`-` [Data Creator Camp]
+
+> winter project
+
+`-` [LG AImers]
+
+`-` [HONORS]
+
+`-` [JBIG ML](https://github.com/JBIG-DL/ML_study_winter23)
 
 #### junior (2023)
 

@@ -43,7 +43,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` [Data Analysis Technology Assessment]
 
-`-` [LG AImers]
+`-` [LG Aimers]
 
 `-` [HONORS]
 

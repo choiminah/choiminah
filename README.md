@@ -43,13 +43,17 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` [Data Analysis Technology Assessment]
 
-`-` [LG Aimers]
-
-`-` [HONORS]
+`-` [HONORS] - Survival Analysis
 
 `-` [JBIG ML](https://github.com/JBIG-DL/ML_study_winter23)
 
 #### junior (2023)
+
+`-` [LSTM]
+
+`-` [Temporal Fusion Transformer] 
+
+`-` [COSS]
 
 #### senior (2024)
 

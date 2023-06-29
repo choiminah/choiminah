@@ -33,7 +33,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > 2nd semester
 
-`-` [Data Visualization]
+`-` [Data Visualization](https://github.com/choiminah/DV2022)
 
 `-` [Deep Learning for Computer Vision]
 
@@ -41,15 +41,13 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > winter project
 
-`-` [Data Analysis Technology Assessment]
-
 `-` [HONORS] - Survival Analysis
 
 `-` [JBIG ML](https://github.com/JBIG-DL/ML_study_winter23)
 
 #### junior (2023)
 
-`-` [LSTM]
+`-` [LSTM](https://github.com/choiminah/LSTM)
 
 `-` [Temporal Fusion Transformer] 
 

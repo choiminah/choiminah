@@ -41,7 +41,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > winter project
 
-`-` [HONORS] - Survival Analysis
+`-` Survival Analysis
 
 `-` [JBIG ML](https://github.com/JBIG-DL/ML_study_winter23)
 

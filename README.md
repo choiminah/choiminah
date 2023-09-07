@@ -53,6 +53,10 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` [COSS]
 
+`-` [ADsP]
+
+`-` [2023 산학협력 EXPO]
+
 #### senior (2024)
 
 ---

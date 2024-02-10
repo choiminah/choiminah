@@ -55,7 +55,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` [ADsP]
 
-`-` [2023 산학협력 EXPO]
+`-` [2023 산학협력 EXPO](https://github.com/choiminah/IACexpo)
 
 #### senior (2024)
 

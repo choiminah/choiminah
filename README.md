@@ -25,8 +25,6 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 `-` [baekjoon-algorithm](https://github.com/choiminah/baekjoon-algorithm)
 
-`-` [Dacon]
-
 `-` [Data Visualization]
 
 `-` [JBNU Bigdata Supporters]
@@ -58,6 +56,8 @@ Department of Statistics, Jeonbuk National University, South Korea.
 `-` [2023 산학협력 EXPO](https://github.com/choiminah/IACexpo)
 
 #### senior (2024)
+
+`-` [Deep Learning](https://github.com/choiminah/DL2024)
 
 ---
 

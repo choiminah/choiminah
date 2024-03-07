@@ -23,7 +23,7 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > summer project
 
-`-` [baekjoon-algorithm](https://github.com/choiminah/baekjoon-algorithm)
+`-` [Baekjoon-algorithm](https://github.com/choiminah/baekjoon-algorithm)
 
 `-` [Data Visualization]
 

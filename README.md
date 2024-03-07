@@ -39,21 +39,27 @@ Department of Statistics, Jeonbuk National University, South Korea.
 
 > winter project
 
-`-` Survival Analysis
+`-` [Survival Analysis]
 
 `-` [JBIG ML](https://github.com/JBIG-DL/ML_study_winter23)
 
 #### junior (2023)
 
-`-` [LSTM](https://github.com/choiminah/LSTM)
-
-`-` [Temporal Fusion Transformer] 
+> 1st semester
 
 `-` [COSS]
 
+> summer project
+
+`-` [CO-Data Station 대상] 
+
 `-` [ADsP]
 
+> 2nd semester
+
 `-` [2023 산학협력 EXPO](https://github.com/choiminah/IACexpo)
+
+`-` [LSTM](https://github.com/choiminah/LSTM)
 
 #### senior (2024)
 
